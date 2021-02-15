@@ -24,7 +24,6 @@ My name is Sam King and I'm a software developer/DevOps engineer. I'm from the U
 ![](https://img.shields.io/badge/Platform-Firebase-brightgreen?logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-brightgreen?logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-brightgreen?logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
