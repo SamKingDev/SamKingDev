@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Sam King and I'm a software developer/DevOps engineer. I'm from the United Kingdom, living in Southampton and currently working at Eastleigh Borough Council. You can find me on [![LinkedIn][3.2]][3].
+I'm Sam and I'm a back end software engineer. I'm from the United Kingdom, living in Southampton and currently working at Filament AI on Enterprise Bot Manager. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
